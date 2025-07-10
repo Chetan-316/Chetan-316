@@ -38,7 +38,7 @@
 ## 🐍 GitHub Activity Snake  
 
 <p align="center">
-  <img src="https://github.com/Chetan-Agrawal/Chetan-Agrawal/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Chetan-316/Chetan-316/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>  
 
 ---
