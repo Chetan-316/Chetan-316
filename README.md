@@ -3,8 +3,8 @@
 🎓 **Computer Science & Engineering Student at Maharashtra Institute Of Technology**  
 💻 Passionate about **AI | Machine Learning | Full-Stack Development**  
 🚀 Currently building:  
-- 🖤 **PSO + Vit Edge Detection System**  
-🌱 Learning **Deep Learning & Transformers** 
+- 🖤 **PSO + ML Edge Detection System**  
+🌱 Learning **Deep Learnin & Transformers**  
 📊 Interested in **Data Science** and **AI-driven applications**  
 
 ---
@@ -38,7 +38,7 @@
 ## 🐍 GitHub Activity Snake  
 
 <p align="center">
-  <img src="https://github.com/Chetan-316/Chetan-316/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Chetan-316/Chetan-316/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>  
 
 ---
@@ -49,7 +49,7 @@
   <a href="mailto:chetan316agrawal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/chetan-agrawal319">
+  <a href="https://www.linkedin.com/in/chetan-agrawal319/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Chetan-316">
