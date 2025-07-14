@@ -4,7 +4,7 @@
 💻 Passionate about **AI | Machine Learning | Full-Stack Development**  
 🚀 Currently building:  
 - 🖤 **PSO + ML Edge Detection System**  
-🌱 Learning **Deep Learnin & Transformers**  
+🌱 Learning **Deep Learning & Transformers**  
 📊 Interested in **Data Science** and **AI-driven applications**  
 
 ---
@@ -35,12 +35,7 @@
 
 ---
 
-## 🐍 GitHub Activity Snake  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chetan-316/Chetan-316/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-  
 
 ---
 
