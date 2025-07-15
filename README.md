@@ -42,7 +42,7 @@
 ## 🤝 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:chetan316agrawal@gmail.com">
+  <a href="mailto:chetan.agrawal.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/chetan-agrawal319/">
