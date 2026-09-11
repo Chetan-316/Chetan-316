@@ -1,277 +1,208 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=29B6F6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Chetan+Agrawal;Applied+AI%2FML+%7C+Computer+Vision+%7C+Speech+AI;Edge+AI+%7C+Multi-Agent+Systems;Published+AI%2FML+Researcher+%7C+ICTCS+2025" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=29B6F6&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Chetan+Agrawal;B.Tech+CSE+Graduate+%7C+Applied+AI%2FML;Computer+Vision+%7C+Speech+AI+%7C+Edge+AI;Multi-Agent+Systems+%7C+AI%2FML+Research" alt="Typing SVG" />
 </div>
 
 <div align="center">
-
-<a href="https://linkedin.com/in/chetan-agrawal319">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:officialmail.chetan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Chetan-316">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://linkedin.com/in/chetan-agrawal319">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:officialmail.chetan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Chetan-316">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-
-### Final-Year Computer Science Engineer | Applied AI/ML
-
-**Computer Vision • Speech AI • Edge AI • Multi-Agent Systems**
-
-<i>"Building AI systems that move from research to real-world deployment."</i>
-
+  <b>🎓 B.Tech Computer Science & Engineering Graduate | 🚀 Applied AI/ML</b>
+  <br />
+  <i>"Building AI systems that move from research to real-world deployment."</i>
 </div>
 
----
+<br />
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-I'm a **final-year Computer Science & Engineering student** at Maharashtra Institute of Technology, Chhatrapati Sambhajinagar, with an **8.89 CGPA** and **Honors in Artificial Intelligence & Machine Learning (A+)**.
+I'm a B.Tech Computer Science & Engineering graduate from Maharashtra Institute of Technology, Chhatrapati Sambhajinagar, with a CGPA of 8.89 and Honors in Artificial Intelligence & Machine Learning (A+).
 
-My work focuses on building practical AI systems across:
+My work focuses on Computer Vision, Speech AI, Edge AI, Deep Learning, NLP, and Multi-Agent Systems. During my AI/ML internship at The Baap Company, I built and deployed production-oriented AI systems covering multilingual text-to-speech, wildlife surveillance, and automatic number plate recognition.
 
-* 👁️ **Computer Vision & Edge AI**
-* 🗣️ **Speech AI & Text-to-Speech**
-* 🤖 **Multi-Agent AI Systems**
-* 🧠 **Deep Learning & NLP**
-* ⚡ **AI Model Optimization & Deployment**
+🚀 Engineering Highlights
 
-During my AI/ML internship at **The Baap Company**, I worked on production-oriented AI systems covering multilingual speech synthesis, wildlife surveillance, and automatic number plate recognition.
+Project / System
 
----
+What I Built
 
-## 🚀 Engineering Highlights
+Result
 
-| Project / System               | What I Built                                             | Result                             |
-| :----------------------------- | :------------------------------------------------------- | :--------------------------------- |
-| 🐆 **Vyaghra-Drishti**         | YOLOv8-based edge-AI wildlife surveillance system        | **98.3% mAP50**                    |
-| 🗣️ **Ira TTS**                | Marathi, Hindi & English TTS using Piper VITS            | **<200 ms CPU inference**          |
-| 🚘 **ANPR System**             | YOLO + OCR + regex-based number plate pipeline           | **92% daytime extraction success** |
-| 🤖 **Manthan.AI**              | Multi-agent academic research assistant                  | FastAPI + Vue 3 + JWT              |
-| 🔬 **Adaptive Edge Detection** | PSO + Vision Transformer based image processing research | **Published at ICTCS 2025**        |
+🐆 Vyaghra-Drishti
 
----
+YOLOv8 edge-AI wildlife surveillance system
 
-## 🔬 Featured Projects
+98.3% mAP50 / 94.5% precision
 
-### 🐆 Vyaghra-Drishti
+🗣️ Ira TTS
 
-**Edge-AI Wildlife Surveillance System**
+Marathi, Hindi & English TTS using Piper VITS
 
-* Built for deployment on **low-power edge hardware**
-* Curated and processed **6,000+ images**
-* Trained a **YOLOv8** leopard detection model
-* Achieved **98.3% mAP50**
-* Achieved **94.5% precision**
-* Designed toward reducing human-wildlife conflict
+Sub-200 ms CPU inference
 
-`Python` `YOLOv8` `Computer Vision` `Edge AI` `Deep Learning`
+🚘 ANPR System
 
----
+YOLO + EasyOCR + regex validation pipeline
 
-### 🗣️ Ira - Multilingual Text-to-Speech
+92% daytime extraction success
 
-A multilingual voice engine supporting:
+🤖 Manthan.AI
 
-**Marathi • Hindi • English**
+Multi-agent academic research assistant
 
-* Built using the **Piper VITS architecture**
-* Optimized the **PyTorch → ONNX** deployment pipeline
-* Achieved **sub-200 ms CPU inference latency**
-* Designed for efficient local inference
+FastAPI + Vue 3 + JWT
 
-`Python` `PyTorch` `VITS` `ONNX` `Speech AI` `TTS`
+🔬 Adaptive Edge Detection
 
----
+PSO + Vision Transformer research
 
-### 🚘 Automatic Number Plate Recognition
+ICTCS 2025 / Springer
 
-An edge-oriented ANPR pipeline combining:
+🔬 Featured Projects
 
-**YOLO → EasyOCR → Regex Validation**
+🐆 Vyaghra-Drishti
 
-* Built for low-power hardware
-* Achieved **92% daytime plate-extraction success**
-* Explored self-hosted LLM integration to reduce cloud API dependency
+Built an edge-AI wildlife surveillance system for low-power hardware
 
-`Python` `YOLO` `OpenCV` `OCR` `Edge AI`
+Curated 6,000+ images
 
----
+Trained a YOLOv8 leopard-detection model
 
-### 🤖 Manthan.AI
+Achieved 98.3% mAP50 and 94.5% precision
 
-**Multi-Agent Academic Research Assistant**
+Python YOLOv8 Computer Vision Edge AI Deep Learning
 
-A multi-agent system designed to automate academic literature workflows.
+🗣️ Ira - Multilingual Text-to-Speech
 
-* Secure **FastAPI + JWT** backend
-* **Vue 3** frontend
-* Autonomous academic document processing
-* Literature retrieval and synthesis
-* Built as part of my **AI/ML Honors specialization**
+Supports Marathi, Hindi, and English
 
-`Python` `FastAPI` `Vue 3` `JWT` `Multi-Agent Systems`
+Built using the Piper VITS architecture
 
----
+Optimized the PyTorch-to-ONNX export pipeline
 
-### 🔬 Adaptive Edge Detection via PSO + ViT
+Achieved sub-200 ms CPU inference latency
 
-A hybrid computer vision approach combining:
+Python PyTorch VITS ONNX Speech AI TTS
 
-* **Particle Swarm Optimization**
-* Adaptive threshold optimization
-* **Vision Transformers**
-* Classical computer vision
+🚘 Automatic Number Plate Recognition
 
-Designed to improve edge detection under:
+Built using YOLO + EasyOCR + regex validation
 
-**Noise • Low Contrast • Motion Blur**
+Designed for low-power edge hardware
 
-The research behind this work was presented and accepted at **ICTCS 2025**.
+Achieved 92% daytime plate-extraction success
 
-`Python` `OpenCV` `PSO` `Vision Transformer` `Computer Vision`
+Explored self-hosted LLM integration to reduce cloud-API dependency
 
----
+Python YOLO EasyOCR Computer Vision Edge AI
 
-### 📈 Advanced Stock Analysis Chatbot
+🤖 Manthan.AI - Multi-Agent Academic Research Assistant
 
-An NLP-driven conversational system that translates financial market data into understandable insights.
+Secure FastAPI/JWT backend
 
-* Real-time market data integration
-* RSI trend analysis
-* Natural-language explanations
-* Matplotlib-based visualizations
+Vue 3 frontend
 
-`Python` `NLP` `Flask` `Streamlit` `Matplotlib`
+Autonomous academic literature parsing, retrieval, and synthesis
 
----
+Built as part of my AI/ML Honors specialization
 
-## 🛠️ Technical Stack
+Python FastAPI Vue 3 JWT Multi-Agent Systems
 
-### 💻 Languages
+🔬 Adaptive Edge Detection via PSO + ViT
 
-<p>
+Hybrid edge-detection approach using Particle Swarm Optimization and Vision Transformers
+
+Designed for challenging conditions including noise, low contrast, and motion blur
+
+Research presented and accepted at ICTCS 2025
+
+Python OpenCV PSO Vision Transformer Computer Vision
+
+📈 Advanced Stock Analysis Chatbot
+
+NLP-driven conversational interface for market data
+
+RSI trend analytics
+
+Real-time financial API integration
+
+Matplotlib-based visualizations
+
+Python NLP Flask Streamlit Matplotlib
+
+🛠️ Technical Stack
+
+Languages
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
 
-### 🧠 AI / Machine Learning
-
-<p>
+AI / ML
+<br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" />
-</p>
 
-<p>
-<img src="https://img.shields.io/badge/Computer%20Vision-02569B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Speech%20AI-7B1FA2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-2E7D32?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-1565C0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-B71C1C?style=for-the-badge" />
-</p>
-
-### ⚙️ Backend & Deployment
-
-<p>
+Backend & Deployment
+<br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-</p>
 
-### 🔧 Tools & Systems
-
-<p>
+Tools & Systems
+<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
 
----
+🏆 Achievements
 
-## 🏆 Achievements
+📄 Published AI/ML Researcher - ICTCS 2025, Springer
 
-* 📄 **Published AI/ML Researcher** - ICTCS 2025, Springer
-* 🥈 **Runner-Up - CodeRush 1.0 National-Level Hackathon**, YCCE Nagpur × TCS
-* 🤖 Certified in **Robotic Process Automation** by NIELIT & FutureSkills PRIME, Government of India
-* 🐍 Certified in **Industry-Grade Python Development**
-* 🎓 **AI/ML Honors - A+**
+🥈 Runner-Up - CodeRush 1.0 National-Level Hackathon, YCCE Nagpur, in partnership with TCS
 
----
+🤖 Robotic Process Automation certification - NIELIT & FutureSkills PRIME, Government of India
 
-## 📄 Research
+🐍 Industry-Grade Python Development certification
 
-### A Survey on Edge Detection using Particle Swarm Optimization
+🎓 Honors in Artificial Intelligence & Machine Learning - A+
 
-Presented and accepted at the **10th International Conference on Information and Communication Technology for Competitive Strategies - ICTCS 2025**, Jaipur, India.
-
-**Publisher: Springer**
-
-Research interests include:
-
-`Computer Vision` • `Optimization` • `Edge Detection` • `Vision Transformers` • `Applied AI`
-
----
-
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chetan-316&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-316&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetan-316&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-316&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
----
+🎓 Education
 
-## 🎓 Education
-
-**B.Tech - Computer Science & Engineering**
+B.Tech, Computer Science & Engineering
 Maharashtra Institute of Technology, Chhatrapati Sambhajinagar
-**2022 - 2026**
+2022 - 2026
 
-* CGPA: **8.89**
-* Honors: **Artificial Intelligence & Machine Learning**
-* Honors Grade: **A+**
+CGPA: 8.89
 
----
+Honors: Artificial Intelligence & Machine Learning
+
+Honors Grade: A+
 
 <div align="center">
-
-### Let's Connect
-
-I'm interested in building and contributing to practical systems in
-**AI/ML • Computer Vision • Speech AI • Edge AI • Multi-Agent Systems**
-
-<a href="https://linkedin.com/in/chetan-agrawal319">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:officialmail.chetan@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<sub>⚡ Applied AI/ML • Research • Engineering • Deployment</sub>
-
+  <b>Applied AI/ML • Computer Vision • Speech AI • Edge AI • Multi-Agent Systems</b>
 </div>
