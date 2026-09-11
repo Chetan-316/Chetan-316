@@ -1,200 +1,379 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Chetan%20Agrawal&fontSize=42&fontAlignY=34&desc=Applied%20AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Speech%20AI%20%7C%20Edge%20AI&descAlignY=55&color=0:0B1020,50:0F4C81,100:29B6F6" width="100%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050B14,45:0B3B66,100:00B4D8&text=Chetan%20Agrawal&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Applied%20AI%2FML%20Engineer&descSize=20&descAlignY=58&animation=fadeIn"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:EAF8FF,50:B8E8FF,100:55C8F5&text=Chetan%20Agrawal&fontColor=08111F&fontSize=48&fontAlignY=38&desc=Applied%20AI%2FML%20Engineer&descSize=20&descAlignY=58&animation=fadeIn"
+  />
+  <img
+    width="100%"
+    alt="Chetan Agrawal — Applied AI/ML Engineer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050B14,45:0B3B66,100:00B4D8&text=Chetan%20Agrawal&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Applied%20AI%2FML%20Engineer&descSize=20&descAlignY=58&animation=fadeIn"
+  />
+</picture>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=29B6F6&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Graduate+%7C+Applied+AI%2FML;Building+real-world+AI+systems+for+deployment;Computer+Vision+%7C+Speech+AI+%7C+Multi-Agent+Systems;Published+Researcher+%7C+ICTCS+2025" alt="Typing SVG" />
+### Computer Vision · Speech AI · Edge AI · Multi-Agent Systems
+
+**Building AI systems that are measured by how well they work outside the notebook.**
 
 <p>
-  <a href="https://linkedin.com/in/chetan-agrawal319"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:officialmail.chetan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Chetan-316"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Chetan-316&style=for-the-badge&color=29b6f6" />
+  <a href="https://chetansportfolio-three.vercel.app">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0B3B66?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/chetan-agrawal319">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:officialmail.chetan@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Chetan-316">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
-About Me
+---
 
-I’m Chetan Agrawal, a B.Tech Computer Science & Engineering graduate from Maharashtra Institute of Technology, Chhatrapati Sambhajinagar.
+## About
 
-I build practical AI systems that go beyond demos and actually run in deployment environments — especially in Computer Vision, Speech AI, Edge AI, and Multi-Agent Systems.
+I’m an **Applied AI/ML Engineer** and Computer Science Engineering graduate focused on taking models from experimentation to practical deployment. My work spans **edge computer vision, multilingual speech systems, model optimization, AI-backed applications, and multi-agent research workflows**.
 
-CGPA: 8.89
+I care about measurable model quality, inference performance, reproducible engineering, and systems that remain useful beyond a demo.
 
-Honors: Artificial Intelligence & Machine Learning (A+)
+---
 
-Research: ICTCS 2025, Springer
+## Engineering Impact
 
-Recognition: Runner-Up, CodeRush 1.0 National-Level Hackathon
+<div align="center">
 
-Open to: AI/ML, Computer Vision, Speech AI, Edge AI, and Applied Research opportunities
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>98.3%</h3>
+YOLOv8 <b>mAP50</b><br/>
+Wildlife detection
+</td>
 
-At a Glance
+<td align="center" width="33%">
+<h3>94.5%</h3>
+Detector <b>precision</b><br/>
+Leopard surveillance
+</td>
+
+<td align="center" width="33%">
+<h3>&lt;200 ms</h3>
+CPU <b>inference</b><br/>
+Multilingual TTS
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+<h3>92%</h3>
+Daytime <b>plate extraction</b><br/>
+ANPR pipeline
+</td>
+
+<td align="center" width="33%">
+<h3>6,000+</h3>
+Images <b>curated</b><br/>
+Training pipeline
+</td>
+
+<td align="center" width="33%">
+<h3>3 Languages</h3>
+Marathi · Hindi · English<br/>
+Speech AI
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Applied AI Systems
+
+| System | Engineering Focus | Result |
+|---|---|---|
+| **Vyaghra-Drishti** | Edge-AI wildlife surveillance for low-power environments using YOLOv8 and a curated leopard-detection dataset | **98.3% mAP50**, **94.5% precision**, **6,000+ images** |
+| **Ira** | Multilingual Marathi, Hindi and English TTS using Piper VITS with a PyTorch → ONNX deployment pipeline | **Sub-200 ms CPU inference** |
+| **ANPR Pipeline** | Vehicle number-plate detection and recognition using YOLO, EasyOCR, OpenCV and regex validation on edge hardware | **92% daytime extraction success** |
+
+> These systems were developed during my AI/ML work at **The Baap Company**.
+
+---
+
+## From Research to Deployment
+
+<div align="center">
+
+**Research** → **Build** → **Evaluate** → **Optimize** → **Deploy**
+
+</div>
+
+| Stage | What I work with |
+|---|---|
+| **Research** | Vision Transformers · PSO · Deep Learning · NLP |
+| **Build** | Python · PyTorch · TensorFlow · YOLOv8 · OpenCV |
+| **Evaluate** | Precision · mAP · task-specific success metrics · latency |
+| **Optimize** | ONNX · CPU inference · model/deployment pipeline refinement |
+| **Deploy** | Linux · FastAPI · Flask · Streamlit · edge environments |
+
+---
+
+## Selected Projects
+
+### Adaptive Edge Detection via PSO-Driven ML & Vision Transformers
+
+Hybrid computer-vision framework combining **Particle Swarm Optimization** and **Vision Transformers** for edge detection under noise, low contrast, and motion blur.
+
+`Python` `OpenCV` `PSO` `Vision Transformers`
+
+---
+
+### Manthan.AI
+
+Multi-agent academic research platform designed to retrieve, parse, and synthesize research literature through autonomous workflows.
+
+`Python` `FastAPI` `Vue 3` `JWT` `Multi-Agent Systems`
+
+---
+
+## Selected Public Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-What I focus on
+### ReviewGuard AI
 
-Production-oriented AI/ML engineering
+Multilingual fake-review detection application supporting English, Hindi, and Marathi review analysis.
 
-Computer Vision on edge hardware
+**Stack:** Python · Scikit-learn · TF-IDF · Streamlit
 
-Multilingual Speech AI and TTS systems
-
-Multi-Agent Systems for knowledge workflows
-
-Fast, clean, practical backend integration
+[**View Repository →**](https://github.com/Chetan-316/fake-review-detection)
 
 </td>
+
 <td width="50%" valign="top">
 
-What matters to me
+### Stock Market Insights
 
-Real deployment over flashy demos
+Interactive market-analysis application for live stock data, historical trends, charts, and financial indicators.
 
-Measurable performance and latency
+**Stack:** Python · Streamlit · yFinance
 
-Clean experimentation + reproducibility
+[**View Repository →**](https://github.com/Chetan-316/stock-market-analyzer)
 
-Building systems that are actually useful
+</td>
+</tr>
 
-Turning research into working products
+<tr>
+<td width="50%" valign="top">
+
+### Cinemood
+
+Mood-based movie recommendation system supporting Bollywood and Hollywood datasets through a lightweight deployed interface.
+
+**Stack:** Python · Pandas · NumPy · Streamlit
+
+[**View Repository →**](https://github.com/Chetan-316/mood-based-movie-reccomendation-system)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Portfolio
+
+Personal engineering portfolio showcasing technical work and projects.
+
+[**View Repository →**](https://github.com/Chetan-316/portfolio)  
+[**Open Portfolio →**](https://chetansportfolio-three.vercel.app)
 
 </td>
 </tr>
 </table>
 
-Impact Snapshot
+---
+
+## Technical Stack
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,vue,linux,git,github&perline=9"
+  alt="Python, PyTorch, TensorFlow, FastAPI, Flask, Vue, Linux, Git and GitHub"
+  width="610"
+/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Hugging%20Face-111827?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
+<img src="https://img.shields.io/badge/Streamlit-262730?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
+
+</div>
+
+<br/>
+
+| Area | Technologies |
+|---|---|
+| **Core** | Python · SQL |
+| **AI / ML** | PyTorch · TensorFlow · Hugging Face · YOLOv8 · OpenCV · Vision Transformers |
+| **Applied AI** | Computer Vision · Deep Learning · NLP · Speech AI · VITS · Multi-Agent Systems |
+| **Backend** | FastAPI · Flask · Streamlit |
+| **Deployment** | ONNX · Linux · Git · GitHub |
+| **Frontend Integration** | Vue 3 |
+
+---
+
+## Experience
+
+### AI/ML Intern · The Baap Company
+**Jan 2026 – Apr 2026 · Sangamner, Maharashtra**
+
+- Engineered **Ira**, a multilingual Marathi-Hindi-English TTS system and optimized its PyTorch → ONNX deployment pipeline for **sub-200 ms CPU inference**.
+- Built **Vyaghra-Drishti**, curating **6,000+ images** and training a YOLOv8 leopard detector achieving **98.3% mAP50** and **94.5% precision**.
+- Developed an edge-oriented **ANPR pipeline** using YOLO, EasyOCR, OpenCV and regex validation with **92% daytime extraction success**.
+
+### Logistic Administrator · PRAGATI Rural Digital Education Initiative
+**Jun 2024 – Jan 2026 · Chhatrapati Sambhajinagar**
+
+- Served on a **5-member leadership team** supporting rural digital-education initiatives.
+- Co-designed a bilingual ICT curriculum for **Grades 8–10** deployed in Zilla Parishad schools.
+- Supported deployment of diskless Linux laboratory infrastructure with expansion planned across **15+ schools**.
+
+---
+
+## Research & Recognition
 
 <table>
 <tr>
-<td align="center"><b>98.3% mAP50</b><br/>YOLOv8 wildlife detection</td>
-<td align="center"><b>&lt;200 ms</b><br/>CPU inference for multilingual TTS</td>
-</tr>
-<tr>
-<td align="center"><b>92%</b><br/>Daytime ANPR plate extraction success</td>
-<td align="center"><b>6,000+</b><br/>Images curated for training pipeline</td>
+<td width="50%" valign="top">
+
+### Research
+
+**A Survey on Edge Detection using Particle Swarm Optimization**
+
+Accepted at **ICTCS 2025** and published with **Springer**.
+
+Research interests include computer vision, optimization-driven image processing, and practical AI deployment.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Recognition
+
+**Runner-Up**  
+CodeRush 1.0 National-Level Hackathon  
+YCCE Nagpur · in partnership with TCS
+
+**Certifications**
+- Robotic Process Automation — NIELIT & FutureSkills PRIME
+- Industry-Grade Python Development
+
+</td>
 </tr>
 </table>
 
-Featured Work
+---
 
-Vyaghra-Drishti — Edge-AI Wildlife Surveillance
+## Education
 
-Built an edge-AI wildlife surveillance system for low-power hardware.
+**B.Tech in Computer Science & Engineering**  
+Maharashtra Institute of Technology, Chhatrapati Sambhajinagar  
+**2022 – 2026 · Completed**
 
-Curated 6,000+ images and trained a YOLOv8 leopard detection model.
+**CGPA:** 8.89  
+**Honors:** Artificial Intelligence & Machine Learning — **A+**
 
-Achieved 98.3% mAP50 and 94.5% precision.
+---
 
-Designed to help reduce human-wildlife conflict.
+<details>
+<summary><b>Leadership & Campus Contributions</b></summary>
 
-Stack: Python YOLOv8 OpenCV Computer Vision Edge AI
+<br/>
 
-Ira — Multilingual Text-to-Speech Voice Agent
+- **Managerial Committee Member — Technophilia 2K25:** supported an event with 500+ participants.
+- **Student Coordinator — Industrial Visit:** coordinated activities involving 60+ students.
+- **Volunteer — Kalavihangam 2K24:** contributed to an event attended by 1,000+ participants.
+- **Volunteer — Manthan National Seminar.**
 
-Built a multilingual TTS system for Marathi, Hindi, and English using Piper VITS.
+</details>
 
-Optimized the PyTorch → ONNX pipeline for faster deployment.
+---
 
-Achieved sub-200 ms CPU inference latency.
-
-Stack: Python PyTorch VITS ONNX Speech AI
-
-ANPR Pipeline — Automatic Number Plate Recognition
-
-Developed an ANPR pipeline using YOLO + EasyOCR + regex validation.
-
-Achieved 92% daytime extraction success rate on low-power edge hardware.
-
-Explored self-hosted LLM integration to reduce cloud dependency.
-
-Stack: Python YOLO EasyOCR Regex OpenCV
-
-Manthan.AI — Multi-Agent Academic Research Assistant
-
-Built a multi-agent academic research assistant as part of AI/ML Honors specialization.
-
-Implemented a FastAPI/JWT backend with a Vue 3 frontend.
-
-Designed it to parse, retrieve, and synthesize academic literature autonomously.
-
-Stack: Python FastAPI Vue 3 JWT Multi-Agent Systems
-
-Tech Stack
-
-Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-AI / ML
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/YOLOv8-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vision%20Transformers-111827?style=for-the-badge" />
-</p>
-
-Backend / Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBMS-0F4C81?style=for-the-badge" />
-</p>
-
-Research & Recognition
-
-Published Researcher — A Survey on Edge Detection using Particle Swarm Optimization, accepted at ICTCS 2025 and published with Springer.
-
-Runner-Up — CodeRush 1.0 National-Level Hackathon, YCCE Nagpur, in partnership with TCS.
-
-Certified in Robotic Process Automation by NIELIT & FutureSkills PRIME.
-
-Certified in Industry-Grade Python Development.
-
-GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chetan-316&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan-316&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+  <img
+    src="./profile/stats-dark.svg"
+    alt="Chetan Agrawal GitHub statistics"
+    width="49%"
+  />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+  <img
+    src="./profile/top-langs-dark.svg"
+    alt="Languages used across Chetan Agrawal's public GitHub repositories"
+    width="49%"
+  />
+</picture>
+
 </div>
 
-Currently Exploring
+---
 
-Better edge deployment pipelines for AI models
+## Current Engineering Interests
 
-Speech AI for regional languages
+`Efficient Edge Inference`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Regional-Language Speech AI`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Multi-Agent Systems`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Production AI Infrastructure`
 
-Multi-agent reasoning systems for research and enterprise workflows
+`Model Optimization`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Multimodal AI`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`AI + Backend Systems`
 
-Stronger integration between AI systems and real production backends
+---
 
 <div align="center">
 
-Let’s connect and build something meaningful.
+## Build AI that survives deployment.
 
-If you’re working on AI/ML, Computer Vision, Speech AI, Edge AI, or Multi-Agent Systems, I’d love to connect.
+I’m open to **Applied AI/ML engineering, Computer Vision, Speech AI, Edge AI, Multi-Agent Systems, and applied research collaborations** where model quality and real-world engineering both matter.
+
+<br/>
+
+<a href="mailto:officialmail.chetan@gmail.com">
+  <img alt="Email Chetan" src="https://img.shields.io/badge/Let's%20Talk-00A6D6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/chetan-agrawal319">
+  <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>Applied AI · Measured performance · Practical deployment</sub>
 
 </div>
